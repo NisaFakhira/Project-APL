@@ -1,12 +1,12 @@
-# Project-APL
+# Project-APL 2020
 # Moodlight
-# Projek APL 2020
 
 Kelompok 8:
 Putri Isna Muliyani AR (1808107010047)
 Nisa Fakhira (1808107010004)
 
 Deskripsi:
+
 Teknologi Moodlight digunakan untuk mengatur cahaya pada lampu suatu ruangan sesuai
 dengan keinginan pengguna melalui smartphone si pengguna tersebut, kecerahannya pun
 memiliki tingkatan seperti gelap, redup ,dan terang. Moodlight ini juga dapat mengganti 
